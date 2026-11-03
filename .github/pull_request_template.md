@@ -35,7 +35,7 @@
 
 ## 🔗 Referências
 
-- **Issue/Card:** ClickUp - [ID da tarefa]
+- **Issue/Card:** ClickUp - [Link da Tarefa]
 
 ## ✅ Checklist
 
